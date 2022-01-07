@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#C68D8D</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/eearth</item>
+        <item name="windowSplashScreenAnimationDuration">50000</item>
+        <item name="postSplashScreenTheme">@layout/activity_main</item>
+    </style>
+</resources>
